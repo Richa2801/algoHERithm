@@ -1,12 +1,12 @@
 # Women - Health and Safety
-We are team algoHERithm comprising of Sakshi and Richa.
+We are team algoHERithm comprising of Sakshi and Richa. This file is part of our contribution to Azure Women's Hackathon 2022.
 
 ## Problem Statement
 Predict the health and safety of women
 
 ## Tools to be used
-MS-Azure AI for ML
-MS-Azure for Deploying
+1. MS-Azure AI for ML
+2. MS-Azure for Deploying
 
 ## Method
 #### Find appropiate datasets
